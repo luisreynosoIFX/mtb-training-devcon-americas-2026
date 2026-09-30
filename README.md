@@ -11,7 +11,7 @@ Welcome to **Infineon PSOC™ DevCon Americas 2026**.
 
 ## Tool Prerequisites
 
-1. Download [combined class pre-work](./prerequisites/PSOC_DevCon_class_prework_v2.pdf).
+1. Download [combined class pre-work](./prerequisites/PSOC_DevCon_class_prework_v3.pdf).
 2. Check pre-requisites for all tracks and sessions you are planning to attend.
 3. Follow instructions to install **ALL the recommended tools** before the event.
 
