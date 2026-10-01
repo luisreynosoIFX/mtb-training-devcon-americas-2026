@@ -147,7 +147,7 @@ For any questions or issues, contact:
 <td rowspan="2"><strong>PSOC Control C3M6, Part 1: Architecture, Peripherals, and Toolchains</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam<br><a data-href="./psoc-control/c3m6-p1.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Designing a Secure System, Part 1: Security Strategies and Practices</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/secure-p1.zip"><em>Download Content (pending)</em></a></td>
 <td><strong>PSOC™ Sense Software and Tools Backlog Management Discussion with Infineon FAEs</strong><br><br>Presenter: Brendan McAndrews<br><a data-href="./psoc-multi-sense/sense-backlog.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>PSOC 4 Multi-Sense Device Introduction; Tuner and ModusToolbox™ Setup; Hands-on Labs</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a data-href="./gold-track/ms-intro.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>PSOC 4 Multi-Sense Device Introduction; Tuner and ModusToolbox™ Setup; Hands-on Labs</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-capsense">View Training</a><br><a href="./gold-track/mtb-training-psoc-4-msclp-capsense.zip" download>Download Content</a></td>
 </tr>
 <tr>
 <td>11:30 AM - 12:30 PM</td>
@@ -159,7 +159,7 @@ For any questions or issues, contact:
 <td rowspan="2"><strong>PSOC Control C3M6, Part 2: Hands-on Labs</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam<br><a data-href="./psoc-control/c3m6-p2.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Designing a Secure System, Part 2: Extended Boot, Edge Protect Bootloader, Encryption, and Trusted Firmware</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/secure-p2.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>PSOC™ 4 Multi-Sense Using PSOC 4000T: Inductive and Liquid-level Sensing, Part 1</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctor: Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/multi-sense.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>Liquid-level Sensing Basics and Use Cases; Hands-on Lab</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a data-href="./gold-track/liquid-level.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Liquid-level Sensing Basics and Use Cases; Hands-on Lab</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-lls.git">View Training</a><br><a href="./gold-track/mtb-training-psoc-4-msclp-lls.zip" download>Download Content</a></td>
 </tr>
 <tr><td>2:30 PM - 3:30 PM</td></tr>
 <tr><td>3:30 PM - 4:00 PM</td><td colspan="4" align="center">Break</td></tr>
@@ -168,7 +168,7 @@ For any questions or issues, contact:
 <td><strong>Zephyr on PSOC Control</strong><br><br>Presenter: Clark Jarvis<br>Lab proctor: Jahangir Mansoori<br><a data-href="./psoc-control/zephyr.zip"><em>Download Content (pending)</em></a></td>
 <td><strong>Zephyr on PSOC Edge</strong><br><br>Presenter: Anthony Ly / Luis Reynoso<br><a data-href="./psoc-edge/zephyr.zip"><em>Download Content (pending)</em></a></td>
 <td><strong>PSOC™ 4 Multi-Sense Using the PSOC 4000T, Part 2</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctor: Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/multi-sense-p2.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>Inductive Sensing Basics and Use Cases; Hands-on Lab</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a data-href="./gold-track/inductive.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Inductive Sensing Basics and Use Cases; Hands-on Lab</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-inductive">View Training</a><br><a href="./gold-track/mtb-training-psoc-4-msclp-inductive.zip" download>Download Content</a></td>
 </tr>
 <tr>
 <td>5:00 PM - 6:00 PM</td>
