@@ -89,7 +89,7 @@ For any questions or issues, contact:
 <td>10:30 AM - 11:30 AM</td>
 <td rowspan="2"><strong>C3 Performance Line: Technical Overview and Getting Started Lab; PSOC Control C3 P8 Deep Dive PPCA Introduction</strong><br><br>Presenter: Massimo Paglia<br>Lab proctor: Abhijit Kadam<br><a data-href="./psoc-control/c3-perf.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Importing and Profiling a Pre-trained Machine Learning Model on PSOC™ Edge</strong><br><br>Presenter: Nick Sharp<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/ml-import.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>PSOC™ Digital Peripherals Training, Part 1</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/peripherals.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>PSOC™ Digital Peripherals Training, Part 1</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-digital-peripherals">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-digital-peripherals.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>PSOC C3 Roadmap, Target Applications, Device Overview, Motor-control Peripherals, and FOC Basics</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam<br><a data-href="./gold-track/control-overview.zip"><em>Download Content (pending)</em></a></td>
 </tr>
 <tr><td>11:30 AM - 12:30 PM</td></tr>
@@ -98,12 +98,12 @@ For any questions or issues, contact:
 <td>1:30 PM - 2:30 PM</td>
 <td rowspan="2"><strong>PSOC Control C3 P8 Deep Dive PPCA: TCPWM, HRPWM, ATOP, and ADC; PPCA TCPWM and ADC Labs</strong><br><br>Presenter: Massimo Paglia<br>Lab proctor: Abhijit Kadam<br><a data-href="./psoc-control/ppca.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Graphics, Part 1: Debugging, RLAD, EEZ Studio, LVGL, and GPU Optimization</strong><br><br>Presenter: Quinton Cline<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/graphics-p1.zip"><em>Download Content (pending)</em></a></td>
-<td><strong>CAPSENSE Hardware Design Considerations for PSOC 4000T and 4100T Plus</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctors: Kyle Reynolds and Harish Reddy<br><a data-href="./psoc-multi-sense/capsense-hw.zip"><em>Download Content (pending)</em></a></td>
+<td><strong>CAPSENSE Hardware Design Considerations for PSOC 4000T and 4100T Plus</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctors: Kyle Reynolds and Harish Reddy<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-capsense-hardware-design">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-4-msclp-capsense-hardware-design.zip" download>Download Content</a></td>
 <td><strong>Motor Suite GUI Overview, Live Monitor, and Motor-control Lab</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam<br><a data-href="./gold-track/foc-basics.zip"><em>Download Content (pending)</em></a></td>
 </tr>
 <tr>
 <td>2:30 PM - 3:30 PM</td>
-<td><strong>PSOC™ 4 CAPSENSE™ Deep Dive Using PSOC™ 4000T and PSOC™ 4100T Plus, Part 1</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/capsense-p1.zip"><em>Download Content (pending)</em></a></td>
+<td><strong>PSOC™ 4 CAPSENSE™ Deep Dive Using PSOC™ 4000T and PSOC™ 4100T Plus, Part 1</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-capsense-deep-dive">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-4-msclp-capsense-deep-dive.zip" download>Download Content</a></td>
 <td><strong>Hands-on Motor Suite Lab; Sensorless FOC Startup and Waveform Monitoring</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam<br><a data-href="./gold-track/foc-handson.zip"><em>Download Content (pending)</em></a></td>
 </tr>
 <tr><td>3:30 PM - 4:00 PM</td><td colspan="4" align="center">Break</td></tr>
@@ -111,7 +111,7 @@ For any questions or issues, contact:
 <td>4:00 PM - 5:00 PM</td>
 <td rowspan="2"><strong>Use-Case Examples: Main CPU, PPCA, Data Exchange, and Synchronization; Multicore IPC and Shared-Memory Lab</strong><br><br>Presenter: Massimo Paglia<br>Lab proctor: Abhijit Kadam<br><a data-href="./psoc-control/multicore.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Graphics, Part 2: Bring-up, Rendering, and FPS Optimization Labs</strong><br><br>Presenter: Quinton Cline<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/graphics-p2.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>PSOC™ 4 CAPSENSE™ Deep Dive Using PSOC™ 4000T and PSOC™ 4100T Plus, Part 2</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/capsense-p2.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>PSOC™ 4 CAPSENSE™ Deep Dive Using PSOC™ 4000T and PSOC™ 4100T Plus, Part 2</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-capsense-deep-dive">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-4-msclp-capsense-deep-dive.zip" download>Download Content</a></td>
 <td><strong>Motor Tuning and Adaptation; Load Profiler and PID Tuner</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam<br><a data-href="./gold-track/tbc-handson.zip"><em>Download Content (pending)</em></a></td>
 </tr>
 <tr>
@@ -151,14 +151,14 @@ For any questions or issues, contact:
 </tr>
 <tr>
 <td>11:30 AM - 12:30 PM</td>
-<td><strong>PSOC™ Digital Peripherals Training, Part 2</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctor: Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/peripherals-p2.zip"><em>Download Content (pending)</em></a></td>
+<td><strong>PSOC™ Digital Peripherals Training, Part 2</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctor: Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-digital-peripherals">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-digital-peripherals.zip" download>Download Content</a></td>
 </tr>
 <tr><td>12:30 PM - 1:30 PM</td><td colspan="4" align="center">Lunch</td></tr>
 <tr>
 <td>1:30 PM - 2:30 PM</td>
 <td rowspan="2"><strong>PSOC Control C3M6, Part 2: Hands-on Labs</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam<br><a data-href="./psoc-control/c3m6-p2.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Designing a Secure System, Part 2: Extended Boot, Edge Protect Bootloader, Encryption, and Trusted Firmware</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/secure-p2.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>PSOC™ 4 Multi-Sense Using PSOC 4000T: Inductive and Liquid-level Sensing, Part 1</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctor: Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/multi-sense.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>PSOC™ 4 Multi-Sense Using PSOC 4000T: Inductive and Liquid-level Sensing, Part 1</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctor: Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-multi-sense">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-4-msclp-multi-sense.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>Liquid-level Sensing Basics and Use Cases; Hands-on Lab</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-lls.git">View Training</a><br><a href="./gold-track/mtb-training-psoc-4-msclp-lls.zip" download>Download Content</a></td>
 </tr>
 <tr><td>2:30 PM - 3:30 PM</td></tr>
@@ -167,7 +167,7 @@ For any questions or issues, contact:
 <td>4:00 PM - 5:00 PM</td>
 <td><strong>Zephyr on PSOC Control</strong><br><br>Presenter: Clark Jarvis<br>Lab proctor: Jahangir Mansoori<br><a data-href="./psoc-control/zephyr.zip"><em>Download Content (pending)</em></a></td>
 <td><strong>Zephyr on PSOC Edge</strong><br><br>Presenter: Anthony Ly / Luis Reynoso<br><a data-href="./psoc-edge/zephyr.zip"><em>Download Content (pending)</em></a></td>
-<td><strong>PSOC™ 4 Multi-Sense Using the PSOC 4000T, Part 2</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctor: Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/multi-sense-p2.zip"><em>Download Content (pending)</em></a></td>
+<td><strong>PSOC™ 4 Multi-Sense Using the PSOC 4000T, Part 2</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctor: Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-multi-sense">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-4-msclp-multi-sense.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>Inductive Sensing Basics and Use Cases; Hands-on Lab</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-inductive">View Training</a><br><a href="./gold-track/mtb-training-psoc-4-msclp-inductive.zip" download>Download Content</a></td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ For any questions or issues, contact:
 <td>10:30 AM - 11:30 AM</td>
 <td rowspan="2"><strong>Power Suite with Power Library, Part 1: Digital Power Fundamentals, CC1, and LV Kits</strong><br><br>Presenter: Massimo Paglia<br>Lab proctor: Abhijit Kadam<br><a data-href="./psoc-control/power-p1.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Voice and Audio, Part 1: Digital-microphone Capture, ML Noise and Echo Removal, Voice Recognition, and LPWWD</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Quinton Cline<br><a data-href="./psoc-edge/voice-audio.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>Advanced Widget Design on PSOC 4000T and 4100T Plus, Part 1</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/widget-p1.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Advanced Widget Design on PSOC 4000T and 4100T Plus, Part 1</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-advanced-widgets">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-4-msclp-advanced-widgets.zip" download>Download Content</a></td>
 <td><strong>PSOC Edge Device Introduction; Tools Setup; Dual-Core Blank Project Lab</strong><br><br>Presenter: Luis Reynoso<br>Lab proctor: Nick Sharp<br><a data-href="./gold-track/edge-intro.zip"><em>Download Content (pending)</em></a></td>
 </tr>
 <tr>
@@ -215,7 +215,7 @@ For any questions or issues, contact:
 <td>1:30 PM - 2:30 PM</td>
 <td rowspan="2"><strong>Power Suite with Power Library, Part 2: ModusToolbox™ Power Suite Setup and Code Examples</strong><br><br>Presenter: Abhijit Kadam<br>Lab proctor: Massimo Paglia<br><a data-href="./psoc-control/power-p2.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Hands-on Training for Collecting, Building, and Deploying Object Detection Models with DEEPCRAFT™ Studio</strong><br><br>Presenter: Nick Sharp<br>Lab proctor: Anthony Ly<br><a data-href="./psoc-edge/object-detect.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>Advanced Widget Design on PSOC 4000T and 4100T Plus, Part 2</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/widget-p2.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Advanced Widget Design on PSOC 4000T and 4100T Plus, Part 2</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctors: Brendan McAndrews and Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-advanced-widgets">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-4-msclp-advanced-widgets.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>Graphics in PSOC Edge; VGLite Library and LVGL Custom-GUI Labs</strong><br><br>Presenter: Luis Reynoso<br>Lab proctor: Quinton Cline<br><a data-href="./gold-track/graphics.zip"><em>Download Content (pending)</em></a></td>
 </tr>
 <tr><td>2:30 PM - 3:30 PM</td></tr>
@@ -224,7 +224,7 @@ For any questions or issues, contact:
 <td>4:00 PM - 5:00 PM</td>
 <td rowspan="2"><strong>PSOC Control C3 P8 Security: Secure Boot, BootROM, Provisioning, Policies, and Labs</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam<br><a data-href="./psoc-control/security.zip"><em>Download Content (pending)</em></a></td>
 <td rowspan="2"><strong>Connectivity: Wi-Fi, Bluetooth, VCM, BLE Audio, and Low-power Offloading</strong><br><br>Presenter: Luis Reynoso<br>Lab proctor: Quinton Cline<br><a data-href="./psoc-edge/connectivity.zip"><em>Download Content (pending)</em></a></td>
-<td rowspan="2"><strong>PSOC™ 4 E3 Touchpad Training</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctors: Kyle Reynolds and Harish Reddy Krishnan<br><a data-href="./psoc-multi-sense/touchpad.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>PSOC™ 4 E3 Touchpad Training</strong><br><br>Presenter: Brendan McAndrews<br>Lab proctors: Kyle Reynolds and Harish Reddy Krishnan<br><a href="https://github.com/kyle-reynolds-IFX/mtb-training-psoc-4-msclp-touchpad">View Training</a><br><a href="./psoc-multi-sense/mtb-training-psoc-4-msclp-touchpad.zip" download>Download Content</a></td>
 <td><strong>ML in PSOC Edge; DEEPCRAFT™ ML Development Flow; DEEPCRAFT™ Studio Model Lab</strong><br><br>Presenter: Nick Sharp<br>Lab proctor: Anthony Ly<br><a data-href="./gold-track/ml-deepcraft.zip"><em>Download Content (pending)</em></a></td>
 </tr>
 <tr>
