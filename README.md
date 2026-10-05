@@ -81,7 +81,7 @@ For any questions or issues, contact:
 <tr><td>7:00 AM - 8:00 AM</td><td colspan="4" align="center">Light Breakfast</td></tr>
 <tr>
 <td>8:00 AM - 9:00 AM</td>
-<td colspan="4" rowspan="2" align="center"><strong>Software General Session (Zephyr)</strong> — REQUIRED FOR ALL<br><br>Presenter: Clark Jarvis<br><a data-href="./general/zephyr.zip"><em>Download Content (pending)</em></a></td>
+<td colspan="4" rowspan="2" align="center"><strong>Software General Session (Zephyr)</strong> — REQUIRED FOR ALL<br><br>Presenter: Clark Jarvis<br><a href="https://github.com/ClarkJ-Infineon/devcon-training-2026">View Training</a></td>
 </tr>
 <tr><td>9:00 AM - 10:00 AM</td></tr>
 <tr><td>10:00 AM - 10:30 AM</td><td colspan="4" align="center">Break</td></tr>
