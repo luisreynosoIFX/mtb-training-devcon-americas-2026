@@ -16,7 +16,7 @@ $requirements = @(
     [pscustomobject]@{ Name = 'ModusToolbox Audio SW Codecs Tech Pack'; Minimum = '1.0.3'; Tracks = @('PSOC Edge','Gold'); Pattern = '^ModusToolbox Audio SW Codecs Tech Pack' }
     [pscustomobject]@{ Name = 'ModusToolbox CAPSENSE and Multi-Sense'; Minimum = '1.6'; Tracks = @('PSOC Multi-Sense','Gold'); Pattern = '^ModusToolbox CAPSENSE and Multi-Sense' }
     [pscustomobject]@{ Name = 'ModusToolbox Motor Suite'; Minimum = '2.9'; Tracks = @('PSOC Control','Gold'); Pattern = '^ModusToolbox Motor Suite' }
-    [pscustomobject]@{ Name = 'ModusToolbox Power Suite'; Minimum = '1.1.0 (1.2.0 recommended)'; Recommended = '1.2.0'; RecommendedNote = 'Version 1.2.0 will be released on Oct 12th'; Tracks = @('PSOC Control','Gold'); Pattern = '^ModusToolbox Power Suite' }
+    [pscustomobject]@{ Name = 'ModusToolbox Power Suite'; Minimum = '1.1.0'; Recommended = '1.2.0'; RecommendedNote = 'Version 1.2.0 will be released on Oct 12th'; Tracks = @('PSOC Control','Gold'); Pattern = '^ModusToolbox Power Suite' }
     [pscustomobject]@{ Name = 'ModusToolbox LiveMonitoring'; Minimum = '1.0.x'; Tracks = @('PSOC Control','Gold'); Pattern = '^ModusToolbox Live ?Monitor' }
     [pscustomobject]@{ Name = 'ModusToolbox Machine Learning Pack'; Minimum = '3.3.0'; Tracks = @('PSOC Edge','Gold'); Pattern = '^ModusToolbox Machine Learning Pack' }
     [pscustomobject]@{ Name = 'DEEPCRAFT Studio'; Minimum = '5.14.5788'; Tracks = @('PSOC Edge','Gold'); Pattern = '^(DEEPCRAFT|Imagimob) Studio' }
