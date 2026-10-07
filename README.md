@@ -87,7 +87,7 @@ For any questions or issues, contact:
 <tr>
 <td>10:30 AM - 11:30 AM</td>
 <td rowspan="2"><strong>C3 Performance Line: Technical Overview and Getting Started Lab; PSOC Control C3 P8 Deep Dive PPCA Introduction</strong><br><br>Presenter: Massimo Paglia<br>Lab proctor: Abhijit Kadam</td>
-<td rowspan="2"><strong>Importing and Profiling a Pre-trained Machine Learning Model on PSOC™ Edge</strong><br><br>Presenter: Nick Sharp<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/ml-import.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Importing and Profiling a Pre-trained Machine Learning Model on PSOC™ Edge</strong><br><br>Presenter: Nick Sharp<br>Lab proctor: Luis Reynoso<br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/deepcraft-training-model-converter-intro.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>PSOC C3 Roadmap, Target Applications, Device Overview, Motor-control Peripherals, and FOC Basics</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam</td>
 </tr>
 <tr><td>11:30 AM - 12:30 PM</td></tr>
