@@ -16,7 +16,7 @@ $requirements = @(
     [pscustomobject]@{ Name = 'ModusToolbox Audio SW Codecs Tech Pack'; Minimum = '1.0.3'; Tracks = @('PSOC Edge','Gold'); Pattern = '^ModusToolbox Audio SW Codecs Tech Pack' }
     [pscustomobject]@{ Name = 'ModusToolbox CAPSENSE and Multi-Sense'; Minimum = '1.6'; Tracks = @('PSOC Multi-Sense','Gold'); Pattern = '^ModusToolbox CAPSENSE and Multi-Sense' }
     [pscustomobject]@{ Name = 'ModusToolbox Motor Suite'; Minimum = '2.9'; Tracks = @('PSOC Control','Gold'); Pattern = '^ModusToolbox Motor Suite' }
-    [pscustomobject]@{ Name = 'ModusToolbox Power Suite'; Minimum = '1.2.0*'; Tracks = @('PSOC Control','Gold'); Pattern = '^ModusToolbox Power Suite' }
+    [pscustomobject]@{ Name = 'ModusToolbox Power Suite'; Minimum = '1.1.0 (1.2.0 recommended)'; Recommended = '1.2.0'; RecommendedNote = 'Version 1.2.0 will be released on Oct 12th'; Tracks = @('PSOC Control','Gold'); Pattern = '^ModusToolbox Power Suite' }
     [pscustomobject]@{ Name = 'ModusToolbox LiveMonitoring'; Minimum = '1.0.x'; Tracks = @('PSOC Control','Gold'); Pattern = '^ModusToolbox Live ?Monitor' }
     [pscustomobject]@{ Name = 'ModusToolbox Machine Learning Pack'; Minimum = '3.3.0'; Tracks = @('PSOC Edge','Gold'); Pattern = '^ModusToolbox Machine Learning Pack' }
     [pscustomobject]@{ Name = 'DEEPCRAFT Studio'; Minimum = '5.14.5788'; Tracks = @('PSOC Edge','Gold'); Pattern = '^(DEEPCRAFT|Imagimob) Studio' }
@@ -167,13 +167,18 @@ function Get-RequirementStatus([pscustomobject]$Requirement, [pscustomobject]$Fo
     $minimum = Get-VersionObject $Requirement.Minimum
     $actual = Get-VersionObject $Found.Version
     if (-not $actual) { return 'Review' }
-    if ($actual -ge $minimum) { return 'Pass' }
-    'Outdated'
+    if ($actual -lt $minimum) { return 'Outdated' }
+    if ($Requirement.Recommended -and $actual -lt (Get-VersionObject $Requirement.Recommended)) { return 'Review' }
+    'Pass'
 }
 
 $results = foreach ($requirement in $requirements) {
     $found = Find-Requirement $requirement
-    [pscustomobject]@{ Requirement = $requirement; Found = $found; Status = Get-RequirementStatus $requirement $found }
+    $status = Get-RequirementStatus $requirement $found
+    if ($status -eq 'Review' -and $requirement.RecommendedNote -and (Get-VersionObject $found.Version)) {
+        $found.Detail = "$($found.Detail). $($requirement.RecommendedNote)"
+    }
+    [pscustomobject]@{ Requirement = $requirement; Found = $found; Status = $status }
 }
 
 $tracks = @('PSOC Control','PSOC Edge','PSOC Multi-Sense','Gold','Zephyr','General MTB')
