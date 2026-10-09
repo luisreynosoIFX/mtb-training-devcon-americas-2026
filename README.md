@@ -203,7 +203,7 @@ For any questions or issues, contact:
 <tr>
 <td>1:30 PM - 2:30 PM</td>
 <td rowspan="2"><strong>Power Suite with Power Library, Part 2: ModusToolbox™ Power Suite Setup and Code Examples</strong><br><br>Presenter: Abhijit Kadam<br>Lab proctor: Massimo Paglia</td>
-<td rowspan="2"><strong>Hands-on Training for Collecting, Building, and Deploying Object Detection Models with DEEPCRAFT™ Studio</strong><br><br>Presenter: Nick Sharp<br>Lab proctor: Anthony Ly<br><a data-href="./psoc-edge/object-detect.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Hands-on Training for Collecting, Building, and Deploying Object Detection Models with DEEPCRAFT™ Studio</strong><br><br>Presenter: Nick Sharp<br>Lab proctor: Anthony Ly<br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/deepcraft_vision.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>Graphics in PSOC Edge; VGLite Library and LVGL Custom-GUI Labs</strong><br><br>Presenter: Luis Reynoso<br>Lab proctor: Quinton Cline<br><a href="https://luisreynosoifx.github.io/mtb-training-psoc-edge-e84-features/pse84-technical-intro-features-training-manual-ch4-graphics.html">View Training manual</a><br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/mtb-training-psoc-edge-e84-features-devcon2026.zip" download>Download Content</a></td>
 </tr>
 <tr><td>2:30 PM - 3:30 PM</td></tr>
