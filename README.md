@@ -192,7 +192,7 @@ For any questions or issues, contact:
 <tr>
 <td>10:30 AM - 11:30 AM</td>
 <td rowspan="2"><strong>Power Suite with Power Library, Part 1: Digital Power Fundamentals, CC1, and LV Kits</strong><br><br>Presenter: Massimo Paglia<br>Lab proctor: Abhijit Kadam</td>
-<td rowspan="2"><strong>Voice and Audio, Part 1: Digital-microphone Capture, ML Noise and Echo Removal, Voice Recognition, and LPWWD</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Quinton Cline<br><a data-href="./psoc-edge/voice-audio.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Voice and Audio, Part 1: Digital-microphone Capture, ML Noise and Echo Removal, Voice Recognition, and LPWWD</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Quinton Cline<br><a href="https://infineon.github.io/mtb-training-psoc-edge-adv-voice-audio/">View Training manual</a><br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/mtb-training-psoc-edge-adv-voice-audio.zip" download>Download Content</a></td>
 <td><strong>PSOC Edge Device Introduction; Tools Setup; Dual-Core Blank Project Lab</strong><br><br>Presenter: Luis Reynoso<br>Lab proctor: Nick Sharp<br><a href="https://luisreynosoifx.github.io/mtb-training-psoc-edge-e84-intro-ecosystem/pse84-introductory-ecosystem-e2-training-manual.html#lab-2-ipc-semaphore-using-pdl">View Training manual</a><br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/mtb-training-psoc-edge-e84-intro-ecosystem-devcon2026.zip" download>Download Content</a></td>
 </tr>
 <tr>
