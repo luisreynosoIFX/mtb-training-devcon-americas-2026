@@ -14,6 +14,7 @@ Welcome to **Infineon PSOC™ DevCon Americas 2026**.
 1. Download [combined class pre-work](./prerequisites/PSOC_DevCon_class_prework_v3.pdf).
 2. Check pre-requisites for all tracks and sessions you are planning to attend.
 3. Follow instructions to install **ALL the recommended tools** before the event.
+4. Run the [pre-requisite check scripts](https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/prerequisites/prerequisites_check_v2_1.zip) to confirm installation. 
 
 > [!IMPORTANT]
 > You will not be able to do any labs at the event without installing the tools.
@@ -95,7 +96,7 @@ For any questions or issues, contact:
 <tr>
 <td>1:30 PM - 2:30 PM</td>
 <td rowspan="2"><strong>PSOC Control C3 P8 Deep Dive PPCA: TCPWM, HRPWM, ATOP, and ADC; PPCA TCPWM and ADC Labs</strong><br><br>Presenter: Massimo Paglia<br>Lab proctor: Abhijit Kadam</td>
-<td rowspan="2"><strong>Graphics, Part 1: Debugging, RLAD, EEZ Studio, LVGL, and GPU Optimization</strong><br><br>Presenter: Quinton Cline<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/graphics-p1.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Graphics, Part 1: Debugging, RLAD, EEZ Studio, LVGL, and GPU Optimization</strong><br><br>Presenter: Quinton Cline<br>Lab proctor: Luis Reynoso<br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/mtb-training-psoc-edge-graphics.zip" download>Download Content</a></td>
 <td><strong>Motor Suite GUI Overview, Live Monitor, and Motor-control Lab</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam</td>
 </tr>
 <tr>
@@ -106,7 +107,7 @@ For any questions or issues, contact:
 <tr>
 <td>4:00 PM - 5:00 PM</td>
 <td rowspan="2"><strong>Use-Case Examples: Main CPU, PPCA, Data Exchange, and Synchronization; Multicore IPC and Shared-Memory Lab</strong><br><br>Presenter: Massimo Paglia<br>Lab proctor: Abhijit Kadam</td>
-<td rowspan="2"><strong>Graphics, Part 2: Bring-up, Rendering, and FPS Optimization Labs</strong><br><br>Presenter: Quinton Cline<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/graphics-p2.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Graphics, Part 2: Bring-up, Rendering, and FPS Optimization Labs</strong><br><br>Presenter: Quinton Cline<br>Lab proctor: Luis Reynoso<br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/mtb-training-psoc-edge-graphics.zip" download>Download Content</a><br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/mtb-training-psoc-edge-graphics-lab5.zip" download>Download Lab 5</a><br><a href="https://luisreynosoifx.github.io/mtb-training-psoc-edge-graphics/pse-advanced-lvgl-ai-development-training-manual.html">View Lab 5 online</a></td>
 <td><strong>Motor Tuning and Adaptation; Load Profiler and PID Tuner</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam</td>
 </tr>
 <tr>
