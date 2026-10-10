@@ -140,7 +140,7 @@ For any questions or issues, contact:
 <tr>
 <td>10:30 AM - 11:30 AM</td>
 <td rowspan="2"><strong>PSOC Control C3M6, Part 1: Architecture, Peripherals, and Toolchains</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam</td>
-<td rowspan="2"><strong>Designing a Secure System, Part 1: Security Strategies and Practices</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/secure-p1.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Designing a Secure System, Part 1: Security Strategies and Practices</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Luis Reynoso<br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/mtb-training-psoc-edge-security-part1.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>PSOC 4 Multi-Sense Device Introduction; Tuner and ModusToolbox™ Setup; Hands-on Labs</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a href="https://kyle-reynolds-ifx.github.io/mtb-training-psoc-4-msclp-capsense/">View Training</a><br><a href="./gold-track/mtb-training-psoc-4-msclp-capsense.zip" download>Download Content</a></td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ For any questions or issues, contact:
 <tr>
 <td>1:30 PM - 2:30 PM</td>
 <td rowspan="2"><strong>PSOC Control C3M6, Part 2: Hands-on Labs</strong><br><br>Presenter: Jahangir Mansoori<br>Lab proctor: Naggapan Rethinam</td>
-<td rowspan="2"><strong>Designing a Secure System, Part 2: Extended Boot, Edge Protect Bootloader, Encryption, and Trusted Firmware</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Luis Reynoso<br><a data-href="./psoc-edge/secure-p2.zip"><em>Download Content (pending)</em></a></td>
+<td rowspan="2"><strong>Designing a Secure System, Part 2: Extended Boot, Edge Protect Bootloader, Encryption, and Trusted Firmware</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Luis Reynoso<br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/mtb-training-psoc-edge-security-part2.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>Liquid-level Sensing Basics and Use Cases; Hands-on Lab</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a href="https://kyle-reynolds-ifx.github.io/mtb-training-psoc-4-msclp-lls/">View Training</a><br><a href="./gold-track/mtb-training-psoc-4-msclp-lls.zip" download>Download Content</a></td>
 </tr>
 <tr><td>2:30 PM - 3:30 PM</td></tr>
