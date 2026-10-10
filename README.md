@@ -133,7 +133,7 @@ For any questions or issues, contact:
 <tr><td>7:00 AM - 8:00 AM</td><td colspan="3" align="center">Light Breakfast</td></tr>
 <tr>
 <td>8:00 AM - 9:00 AM</td>
-<td colspan="3" rowspan="2" align="center"><strong>Software General Session (ModusToolbox™ Advanced)</strong> — REQUIRED FOR ALL<br><br>Presenter: Clark Jarvis<br><a data-href="./general/mtb-advanced.zip"><em>Download Content (pending)</em></a></td>
+<td colspan="3" rowspan="2" align="center"><strong>Software General Session (ModusToolbox™ Advanced)</strong> — REQUIRED FOR ALL<br><br>Presenter: Clark Jarvis</td>
 </tr>
 <tr><td>9:00 AM - 10:00 AM</td></tr>
 <tr><td>10:00 AM - 10:30 AM</td><td colspan="3" align="center">Break</td></tr>
@@ -185,7 +185,7 @@ For any questions or issues, contact:
 <tr><td>7:00 AM - 8:00 AM</td><td colspan="3" align="center">Light Breakfast</td></tr>
 <tr>
 <td>8:00 AM - 9:00 AM</td>
-<td colspan="3" rowspan="2" align="center"><strong>Understand Tech and Feedback Session</strong><br><br>Presenter: Jaya Bindra<br><a data-href="./general/understand-tech.zip"><em>Download Content (pending)</em></a></td>
+<td colspan="3" rowspan="2" align="center"><strong>Understand Tech and Feedback Session</strong><br><br>Presenter: Jaya Bindra</td>
 </tr>
 <tr><td>9:00 AM - 10:00 AM</td></tr>
 <tr><td>10:00 AM - 10:30 AM</td><td colspan="3" align="center">Break</td></tr>
@@ -216,7 +216,7 @@ For any questions or issues, contact:
 </tr>
 <tr>
 <td>5:00 PM - 6:00 PM</td>
-<td><strong>PSOC Edge Security Architecture and Edge Protect Tools; Ownership Transfer and Secure Boot Labs</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Nick Sharp<br><a data-href="./gold-track/security.zip"><em>Download Content (pending)</em></a></td>
+<td><strong>PSOC Edge Security Architecture and Edge Protect Tools; Ownership Transfer and Secure Boot Labs</strong><br><br>Presenter: Anthony Ly<br>Lab proctor: Nick Sharp<br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/gold-track/mtb-training-psoc-edge-security-gold.zip" download>Download Content</a></td>
 </tr>
 <tr><td>6:00 PM - 6:15 PM</td><td colspan="3" align="center">Break — Walk to Team Dinners</td></tr>
 <tr><td>6:30 PM - 9:00 PM</td><td colspan="3" align="center">Feedback Session with Dinner</td></tr>
