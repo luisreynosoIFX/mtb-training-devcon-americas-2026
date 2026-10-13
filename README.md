@@ -133,7 +133,7 @@ For any questions or issues, contact:
 <tr><td>7:00 AM - 8:00 AM</td><td colspan="3" align="center">Light Breakfast</td></tr>
 <tr>
 <td>8:00 AM - 9:00 AM</td>
-<td colspan="3" rowspan="2" align="center"><strong>Software General Session (ModusToolbox™ Advanced)</strong> — REQUIRED FOR ALL<br><br>Presenter: Clark Jarvis</td>
+<td colspan="3" rowspan="2" align="center"><strong>Software General Session (ModusToolbox™ Advanced)</strong> — REQUIRED FOR ALL<br><br>Presenter: Clark Jarvis<br><a href="https://github.com/ClarkJ-Infineon/mtb-training-blinky">GitHub Repo</a><br><a href="https://raw.githubusercontent.com/ClarkJ-Infineon/mtb-training-blinky/main/docs/Mastering_ModusToolbox_Presentation.pptx">Presentation (PPTX)</a></td>
 </tr>
 <tr><td>9:00 AM - 10:00 AM</td></tr>
 <tr><td>10:00 AM - 10:30 AM</td><td colspan="3" align="center">Break</td></tr>
