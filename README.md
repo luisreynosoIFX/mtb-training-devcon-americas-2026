@@ -157,7 +157,7 @@ For any questions or issues, contact:
 <tr><td>3:30 PM - 4:00 PM</td><td colspan="3" align="center">Break</td></tr>
 <tr>
 <td>4:00 PM - 5:00 PM</td>
-<td><strong>Zephyr on PSOC Control</strong><br><br>Presenter: Clark Jarvis<br>Lab proctor: Jahangir Mansoori</td>
+<td><strong>Zephyr on PSOC Control</strong><br><br>Presenter: Clark Jarvis<br>Lab proctor: Jahangir Mansoori<br><a href="https://github.com/ClarkJ-Infineon/devcon-training-2026">View Training Repo</a><br><a href="https://github.com/ClarkJ-Infineon/devcon-training-2026/blob/main/docs/psoc-control-can-lab.md">View Lab Guide</a></td>
 <td><strong>Zephyr on PSOC Edge</strong><br><br>Presenter: Anthony Ly / Luis Reynoso<br><a href="https://github.com/luisreynosoIFX/mtb-training-devcon-americas-2026/raw/refs/heads/main/psoc-edge/pse_zephyr.zip" download>Download Content</a></td>
 <td rowspan="2"><strong>Inductive Sensing Basics and Use Cases; Hands-on Lab</strong><br><br>Presenter: Kyle Reynolds<br>Lab proctor: Quinton Cline<br><a href="https://kyle-reynolds-ifx.github.io/mtb-training-psoc-4-msclp-inductive/">View Training</a><br><a href="./gold-track/mtb-training-psoc-4-msclp-inductive.zip" download>Download Content</a></td>
 </tr>
